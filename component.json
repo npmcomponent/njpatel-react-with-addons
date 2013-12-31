@@ -11,6 +11,7 @@
     "jsx"
   ],
   "license": "Apache",
+  "main": "react-with-addons.js",
   "scripts": [
     "react-with-addons.js"
   ]
